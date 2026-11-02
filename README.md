@@ -1,11 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-
+##### “ You have been living here for as long as you can remember. Everything is fine. “
+###### “ Just remember... waiting for something to happen? “ 
 ( idk a gif placeholder here : sleepy_emoji:: cry: )
 
 https://tenor.com/mw6qA04ebsw.gif 
-
-##### “ You have been living here for as long as you can remember. Everything is fine. “
-###### “ Just remember... waiting for something to happen? “ 
 
 <a href="https://houseofmemories.atabook.org">新book</a>
 
