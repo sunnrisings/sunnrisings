@@ -10,4 +10,4 @@ https://tenor.com/mw6qA04ebsw.gif
 
 <a href="https://houseofmemories.atabook.org">新book</a>
 
-> may work in progress, stay tuned folks
+> may work in progress, stay tuned folks!
