@@ -8,4 +8,6 @@ https://tenor.com/mw6qA04ebsw.gif
 ###### “ Whether you are stepping in from a long journey or just taking a break, we are glad you are here. “ 
 ###### “ Just remember... waiting for something to happen? “ 
 
+<a href="https://houseofmemories.atabook.org">新book</a>
+
 > may work in progress, stay tuned folks
