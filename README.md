@@ -2,6 +2,4 @@
 ##### “ You have been living here for as long as you can remember. Everything is fine. “
 ( gif placeholder here : sleepy_emoji:: cry: )
 
-https://tenor.com/mw6qA04ebsw.gif 
-
 <a href="https://houseofmemories.atabook.org">新book</a>
