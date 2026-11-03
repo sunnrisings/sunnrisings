@@ -8,4 +8,4 @@
   <img width="480" height="360" alt="sunny-omori-omori-sunny" src="https://github.com/user-attachments/assets/1d5486f0-498b-4044-bd85-2919679ef5ef" />
 
 
-<div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + more (work in progress, stay tuned folks!)
+<div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + more (work in progress, stay tuned!)
