@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=7B3F00)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=5C4033)
 ##### “ You have been living here for as long as you can remember. Everything is fine. “
 ( gif placeholder here : sleepy_emoji:: cry: )
 
