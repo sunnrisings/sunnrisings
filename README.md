@@ -3,6 +3,6 @@
  
   “ You have been living here for as long as you can remember. Everything is fine. “
 <div align="center"> 
-  <img width="500" height="320" alt="omori" src="https://github.com/user-attachments/assets/948b048c-9638-441b-ad0d-adbfcb93404b" />
+  <img width="500" height="320" alt="omori-omori-trailer" src="https://github.com/user-attachments/assets/01b5a091-e46c-49ca-94e7-c0906cc930f5" />
 
 <div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + more
