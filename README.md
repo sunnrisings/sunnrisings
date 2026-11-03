@@ -7,3 +7,5 @@
 
 
 <div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + more (work in progress, stay tuned folks!)
+
+<img width="498" height="347" alt="omori-headspace" src="https://github.com/user-attachments/assets/dd2e7a6a-3f7c-470a-98bc-857474241bbd" />
