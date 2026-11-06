@@ -7,5 +7,3 @@
 
 
 <div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + more
-hi
-hello hi testing
