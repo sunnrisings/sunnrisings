@@ -6,4 +6,4 @@
   <img width="500" height="319" alt="omori-omori-trailer" src="https://github.com/user-attachments/assets/a597fae8-13d8-4b4b-b0e6-6ffc5c98268e" />
 
 
-<div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + more
+<div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + carrd-co wip
