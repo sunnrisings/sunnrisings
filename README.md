@@ -3,9 +3,6 @@
  ![](https://komarev.com/ghpvc/?username=your-github-username&color=B19428) — (work in progress, stay tuned)
 <div align="center"> 
  
-<div align="center"> 
-  <img width="500" height="319" alt="omori-omori-trailer" src="https://github.com/user-attachments/assets/a597fae8-13d8-4b4b-b0e6-6ffc5c98268e" />
-
 <img width="500" height="319" alt="d5gj2vlxfug61" src="https://github.com/user-attachments/assets/54abcf21-0d0e-4ee4-8273-6c30d16661c2" />
 
 <div align="center"> <a href="https://houseofmemories.atabook.org">新book</a> + carrd-co (currently working on)
